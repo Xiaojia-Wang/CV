@@ -1,2 +1,2 @@
-# resume
-Github page for my resume
+# CV
+Github page for my CV
